@@ -41,7 +41,7 @@ background, technical skills, and achievements, featuring a clean layout, intera
 structure.`,
     tags: ['React', 'TypeScript'],
     imageUrl: './portfolio.jpeg',
-    liveUrl: 'https://movie-ticket-booking-system-coral.vercel.app/',
+    liveUrl: 'https://my-portfolio-peach-five-57.vercel.app/',
   },
   {
     title: 'car-price-prediction',
